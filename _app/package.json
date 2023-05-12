@@ -1,0 +1,16 @@
+{
+	"name": "alpine-nodejs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "/data/app.js",
+	"license": "unlicense",
+	"private": true,
+	"author": {
+		"name": "Thiago Silva",
+		"email": "thiagoeti@gmail.com",
+		"url": "https://thiago.eti.br"
+	},
+	"dependencies": {
+		"express" : "latest"
+	}
+}
